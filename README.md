@@ -1,4 +1,4 @@
-Welcome to my GitHub profile!  I have over 100 [repos](https://github.com/JoeStrout?tab=repositories) on which I'm the primary (often only) developer, but here are some of my favorites, by category:
+Welcome to my GitHub profile!  I have over 100 [repos](https://github.com/JoeStrout?tab=repositories) on which I'm the primary developer, but here are some of my favorites, by category:
 
 ### AI
 - [PixelClaw](https://github.com/JoeStrout/PixelClaw) - LLM-based agent for in-depth photo/image manipulation 
@@ -7,6 +7,10 @@ Welcome to my GitHub profile!  I have over 100 [repos](https://github.com/JoeStr
 - [miniscript-alphabeta](https://github.com/JoeStrout/miniscript-alphabeta) - standard AI algorithm (Minimax with alpha-beta pruning) for 2-player deterministic games, in MiniScript
 - [https://github.com/JoeStrout/VisAdder](https://github.com/JoeStrout/VisAdder) - Visualization/simulation app for tiny transformers that can do decimal addition
 - [miniscript-news](https://github.com/JoeStrout/miniscript-news) - an LLM-based agent to gather and assemble weekly MiniScript news
+- [cs-masters-thesis](https://github.com/JoeStrout/cs-masters-thesis) - M.S. in Computer Science thesis, developing an architecture for embodied multimodal agents
+- [cs545-ML-project](https://github.com/JoeStrout/cs545-ML-project) - machine learning project comparing neural network to several GOAI methods on real-time learning/problem-solving
+- [csc585-project](https://github.com/JoeStrout/csc585-project) - project code for CSC 585, NLP course at University of Arizona
+
 
 ### Programming Languages/Compilers
 - [miniscript](https://github.com/JoeStrout/miniscript) and [miniscript2](https://github.com/JoeStrout/miniscript2) - C# and C++ implementations of the [MiniScript programming language](https://miniscript.org)
@@ -23,7 +27,4 @@ Welcome to my GitHub profile!  I have over 100 [repos](https://github.com/JoeStr
 
 ### Papers, Projects, & Reports
 - [IntroToComputerProgramming](https://github.com/JoeStrout/IntroToComputerProgramming) - source code for the online version of my book [_Introduction to Computer Programming_](https://introtocomputerprogramming.online/)
-- [cs-masters-thesis](https://github.com/JoeStrout/cs-masters-thesis) - my Master's thesis for my M.S. in Computer Science degree at Colorado State University
-- [cs545-ML-project](https://github.com/JoeStrout/cs545-ML-project) - machine learning project comparing neural network to several GOAI methods on real-time learning/problem-solving
-- [csc585-project](https://github.com/JoeStrout/csc585-project) - project code for CSC 585, NLP course at University of Arizona
-
+(More coming here once I get a chance to upload them!)
