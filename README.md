@@ -6,6 +6,7 @@ Welcome to my GitHub profile!  I have over 100 [repos](https://github.com/JoeStr
 - [miniscript-code-helper](https://github.com/JoeStrout/miniscript-code-helper) - a project to fine-tune (via SFT and RL) an LLM to help with the [MiniScript programming language](https://miniscript.org) 
 - [miniscript-alphabeta](https://github.com/JoeStrout/miniscript-alphabeta) - standard AI algorithm (Minimax with alpha-beta pruning) for 2-player deterministic games, in MiniScript
 - [https://github.com/JoeStrout/VisAdder](https://github.com/JoeStrout/VisAdder) - Visualization/simulation app for tiny transformers that can do decimal addition
+- [miniscript-news](https://github.com/JoeStrout/miniscript-news) - an LLM-based agent to gather and assemble weekly MiniScript news
 
 ### Programming Languages/Compilers
 - [miniscript](https://github.com/JoeStrout/miniscript) and [miniscript2](https://github.com/JoeStrout/miniscript2) - C# and C++ implementations of the [MiniScript programming language](https://miniscript.org)
@@ -18,7 +19,7 @@ Welcome to my GitHub profile!  I have over 100 [repos](https://github.com/JoeStr
 - [miniscript-physics](https://github.com/JoeStrout/miniscript-physics) - 2D physics package for MiniScript (especially Mini Micro)
 - [minimicro-3d](https://github.com/JoeStrout/minimicro-3d) - library and demo code for doing 3D graphics in Mini Micro
 - [miniscript-tryit](https://github.com/JoeStrout/miniscript-tryit) - Online editor/runner/tutorial for basic MiniScript code
-- 
+- [grfon](https://github.com/JoeStrout/grfon) - General Recursive Format Object Notation — a kinder, more human-friendly serialization format
 
 ### Papers, Projects, & Reports
 - [IntroToComputerProgramming](https://github.com/JoeStrout/IntroToComputerProgramming) - source code for the online version of my book [_Introduction to Computer Programming_](https://introtocomputerprogramming.online/)
