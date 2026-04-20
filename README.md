@@ -25,6 +25,5 @@ Welcome to my GitHub profile!  I have over 100 [repos](https://github.com/JoeStr
 - [miniscript-tryit](https://github.com/JoeStrout/miniscript-tryit) - Online editor/runner/tutorial for basic MiniScript code
 - [grfon](https://github.com/JoeStrout/grfon) - General Recursive Format Object Notation — a kinder, more human-friendly serialization format
 
-### Papers, Projects, & Reports
+### Writing
 - [IntroToComputerProgramming](https://github.com/JoeStrout/IntroToComputerProgramming) - source code for the online version of my book [_Introduction to Computer Programming_](https://introtocomputerprogramming.online/)
-(More coming here once I get a chance to upload them!)
