@@ -29,4 +29,4 @@ Welcome to my GitHub profile!  I have over 100 [repos](https://github.com/JoeStr
 ### Writing
 - [IntroToComputerProgramming](https://github.com/JoeStrout/IntroToComputerProgramming) - source code for the online version of my book [_Introduction to Computer Programming_](https://introtocomputerprogramming.online/)
 
-(See also my 2021 conference paper, [MiniScript: A New Language for Computer Programming Education](https://miniscript.org/files/Strout_iSTEM-Ed2021.pdf).)
+See also my 2021 conference paper, [MiniScript: A New Language for Computer Programming Education](https://miniscript.org/files/Strout_iSTEM-Ed2021.pdf); as well as recent blog posts on [dev.to](https://dev.to/joestrout/) and older ones at [LuminaryApps.com](https://luminaryapps.com/blog/).
