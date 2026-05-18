@@ -11,6 +11,7 @@ Welcome to my GitHub profile!  I have over 100 [repos](https://github.com/JoeStr
 - [cs-masters-thesis](https://github.com/JoeStrout/cs-masters-thesis) - M.S. in Computer Science thesis, developing an architecture for embodied multimodal agents
 - [cs545-ML-project](https://github.com/JoeStrout/cs545-ML-project) - machine learning project comparing neural network to several GOFAI methods on real-time learning/problem-solving
 - [csc585-project](https://github.com/JoeStrout/csc585-project) - project code for CSC 585, NLP course at University of Arizona
+- And if you are responsible for any text-to-speech processing, please consider applying [HALO](https://github.com/JoeStrout/HALO) to your synthetic voice output!
 
 
 ### Programming Languages/Compilers
