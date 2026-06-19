@@ -32,5 +32,4 @@ Welcome to my GitHub profile!  I have over 100 [repos](https://github.com/JoeStr
 
 See also my 2021 conference paper, [MiniScript: A New Language for Computer Programming Education](https://miniscript.org/files/Strout_iSTEM-Ed2021.pdf); as well as recent blog posts on [dev.to](https://dev.to/joestrout/) and older ones at [LuminaryApps.com](https://luminaryapps.com/blog/).
 
-#rai-verify-2026
 
