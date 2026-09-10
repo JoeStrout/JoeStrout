@@ -5,7 +5,7 @@ Welcome to my GitHub profile!  I have over 100 [repos](https://github.com/JoeStr
 - [miniclaw](https://github.com/JoeStrout/miniclaw) - simple, understandable LLM agent in [Mini Micro](https://miniscript.org/MiniMicro/)
 - [miniscript-code-helper](https://github.com/JoeStrout/miniscript-code-helper) - a project to fine-tune (via SFT and RL) an LLM to help with the [MiniScript programming language](https://miniscript.org) 
 - [miniscript-alphabeta](https://github.com/JoeStrout/miniscript-alphabeta) - standard AI algorithm (Minimax with alpha-beta pruning) for 2-player deterministic games, in MiniScript
-- [https://github.com/JoeStrout/VisAdder](https://github.com/JoeStrout/VisAdder) - Visualization/simulation app for tiny transformers that can do decimal addition
+- [VisAdder](https://github.com/JoeStrout/VisAdder) - Visualization/simulation app for tiny transformers that can do decimal addition
 - [Hecko](https://github.com/JoeStrout/Hecko) - Home-brew replacement for Amazon Echo
 - [miniscript-news](https://github.com/JoeStrout/miniscript-news) - an LLM-based agent to gather and assemble weekly MiniScript news
 - [cs-masters-thesis](https://github.com/JoeStrout/cs-masters-thesis) - M.S. in Computer Science thesis, developing an architecture for embodied multimodal agents
