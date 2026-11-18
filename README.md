@@ -8,6 +8,7 @@ Welcome to my GitHub profile!  I have over 100 [repos](https://github.com/JoeStr
 - [VisAdder](https://github.com/JoeStrout/VisAdder) - Visualization/simulation app for tiny transformers that can do decimal addition
 - [Hecko](https://github.com/JoeStrout/Hecko) - Home-brew replacement for Amazon Echo
 - [miniscript-news](https://github.com/JoeStrout/miniscript-news) - an LLM-based agent to gather and assemble weekly MiniScript news
+- [SHRDLU Reimagined](https://joestrout.github.io/shrdlu-reimagined/) - a from-scratch rewrite of the classic natural language demo SHRDLU, using modern software engineering techniques
 - [cs-masters-thesis](https://github.com/JoeStrout/cs-masters-thesis) - M.S. in Computer Science thesis, developing an architecture for embodied multimodal agents
 - [cs545-ML-project](https://github.com/JoeStrout/cs545-ML-project) - machine learning project comparing neural network to several GOFAI methods on real-time learning/problem-solving
 - [csc585-project](https://github.com/JoeStrout/csc585-project) - project code for CSC 585, NLP course at University of Arizona
